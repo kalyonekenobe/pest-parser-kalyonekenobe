@@ -1,7 +1,9 @@
 [package]
-name = "parser-practice"
+name = "pest_parser_kalyonekenobe"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Grammar parser using 'pest' crate"
 
 [dependencies]
 anyhow = "1.0.91"
